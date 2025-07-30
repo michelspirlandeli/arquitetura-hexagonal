@@ -1,10 +1,10 @@
-package com.arquitetura;
+package com.architecture;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ArquiteturaHexagonalApplicationTests {
+class ArchitectureHexagonalApplicationTests {
 
 	@Test
 	void contextLoads() {

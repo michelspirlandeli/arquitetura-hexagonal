@@ -8,7 +8,7 @@
 		<version>3.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.arquitetura</groupId>
+	<groupId>com.architecture</groupId>
 	<artifactId>arquitetura-hexagonal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>arquitetura-hexagonal</name>
@@ -68,11 +68,6 @@
 			<optional>true</optional>
 		</dependency>
 
-		<dependency>
-			<groupId>org.springframework.kafka</groupId>
-			<artifactId>spring-kafka-test</artifactId>
-			<scope>test</scope>
-		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-openfeign</artifactId>

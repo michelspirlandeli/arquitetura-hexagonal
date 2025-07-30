@@ -1,2 +1,1 @@
 # arquitetura-hexagonal
-# arquitetura-hexagonal
